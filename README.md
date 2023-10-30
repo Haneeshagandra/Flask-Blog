@@ -1,2 +1,2 @@
 # Flask-Blog
-This is a blog where you can upload all your blogs.
+This is a Website where you can upload all your blogs.
